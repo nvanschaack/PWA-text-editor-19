@@ -1,3 +1,6 @@
+//this code handles the installation of a PWA in a web browser
+
+//retrieves the button from the HTML document
 const butInstall = document.getElementById('buttonInstall');
 
 // Logic for installing the PWA
